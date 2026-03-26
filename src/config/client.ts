@@ -45,12 +45,12 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "M Kesic", rating: 5, text: "We have used Three Acorns services since 2018 and both Will and Wayne have always been professional, reliable and friendly. Will always offers great advice, is honest and we feel that we can trust his judgement and let him do the job without any concerns. The work is carried out to a high standard. Prices are reasonable. They always tidy up afterwards, we never need to do anything, Wayne leaves the working area spotless. Conscientious workers, would totally recommend.", date: "10 months ago" },
+    { name: "Corrina Cook", rating: 5, text: "Amazing service from start to finish! Experts in their field and provide their best advice. Hard working, professional and take pride in what they do resulting in my garden being landscaped and looking incredible. Really friendly and trustworthy, easy to get on with I'm so glad I found these! Thank you so much!", date: "4 years ago" },
+    { name: "Wayne Burton", rating: 5, text: "Will & his team had the task of designing and fully landscaping our back garden. They executed every element with sheer professionalism and in such fantastic detail. The garden is absolutely fabulous and it couldn't be any better. I cannot praise Will & his team enough. Highly, highly recommended.", date: "4 years ago" },
+    { name: "John C", rating: 5, text: "A Top Top team. William and his colleagues cleared an overgrown jungle, tree and bush stumps and including the rubbish hidden for what looks like years in the bushes. They have left the whole area immeasurably improved ready for seeding a new lawn. Very polite, considerate of others including the neighbours and hard working.", date: "5 years ago", badge: "Local Guide" },
+    { name: "Thomas Micheal", rating: 1, text: "Not bad", date: "Edited 5 years ago" },
+    { name: "Alex Allan", rating: 5, text: "Had three acorns back to do more work for us as there work is extremely  good i would recommend  there always on time  dont leave site till it's all cleaned up  will be having them back again and next door is going to use them", date: "5 years ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "Three Acorns Landscaping | Professional Landscaper in Newcastle",
